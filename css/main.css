@@ -26,6 +26,11 @@
   to { transform: translateY(5px) scale(1.5); }
 }
 
+@font-face {
+  font-family: monofonto;
+  src: url(../fonts/monofonto.ttf);
+ }
+
 * {
   --animation-time: 1s;
   --color-text: #f2f2f2;
@@ -350,6 +355,11 @@ section#content > div#projects > div > a.project > p {
   
   section#content > div#projects > div > a.project > div.frontground > img.link {
     top: 37.5%;
+  }
+
+  section canvas {
+    display: none;
+    visibility: hidden;
   }
 }
 
