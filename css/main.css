@@ -48,6 +48,7 @@ body {
   color: var(--color-text);
   animation: 0s lock forwards 3s;
   margin: 0;
+  height: 100vh;
 }
 
 img {
