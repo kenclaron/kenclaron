@@ -219,6 +219,7 @@ section#content > div#projects > div {
   align-content: center;
   align-items: stretch;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 section#content > div#projects > div::-webkit-scrollbar-track {
@@ -357,6 +358,7 @@ section#content > div#projects > div > a.project > p {
     align-content: center;
     align-items: stretch;
     flex-wrap: nowrap;
+    justify-content: left;
   }
   
   section#content > div#projects > h1 {
