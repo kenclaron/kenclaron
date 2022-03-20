@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Information -->
+  <title>Dmitry Britov</title>
+  <meta name="viewport" content="width=device-width, initial-scale=0.4, maximum-scale=0.4, user-scalable=no">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+  <meta name="description" content="Web designer and developer.">
+  <link rel="icon" href="./img/favicon/favicon.png">
+  <!-- End Information -->
+  
+  <!-- Local Stylesheets -->
+  <link rel="stylesheet" href="./css/main.css">
+  <link rel="stylesheet" href="./css/scrollbar.css">
+  <!-- End Local Stylesheets -->
+
+  <!-- Libs Stylesheets -->
+  <link rel="stylesheet" href="./libs/ripple/ripple.css">
+  <!-- End Libs Stylesheets -->
+
+  <!-- Libs Scripts -->
+  <script src="./libs/ripple/ripple.js"></script>
+  <script src="./libs/emulated-android-arrow-js/emulated-android-arrow.js"></script>
+  <script src="./libs/particles.js/particles.min.js"></script>
+  <!-- End Libs Scripts -->
+
+  <!-- Color -->
+  <meta name="theme-color" content="#111">
+  <!-- End Color -->
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://kenclaron.ru">
+
+  <meta property="og:site_name" content="kenclaron.ru">
+  <meta property="og:title" content="Dmitry Britov">
+  <meta property="og:description" content="Web designer and developer.">
+
+  <meta property="og:image" content="./img/open-graph/open-graph.jpg">
+  <meta property="og:image:width" content="1024" />
+  <meta property="og:image:height" content="1024" />
+  <!-- End Open Graph -->
+</head>
+<body>
+  <section id="parallax">
+    <div id="titlecard">
+      <h1>Hello! I'm <span>Dmitry Britov<p>Web designer and developer</p></span></h1>
+      <a href="mailto:da.britov@yandex.ru" class="mail ripple">
+        <img src="./img/mail.svg" alt="Email icon" width="36" height="36">
+        <span name="email" id="email">CONTACT ME</span>
+      </a>
+    </div>
+  </section>
+  
+  <section id="content">
+    <a href="#projects">
+      <div id="arrow"></div>
+    </a>
+    <div id="projects">
+      <a name="projects"></a>
+      <h1>My Projects</h1>
+      <div>
+        <a href="https://github.com/kenclaron/start-menu-alternative-app" class="project ripple">
+          <img src="./img/content/Start-Menu.jpg" alt="scrollbar.js">
+          <h2>Start Menu - Alternative App for Windows 10</h2>
+          <p>This application can be pinned to the taskbar and open the Windows Start Menu.</p>
+          <div class="frontground">
+            <img src="./img/link.svg" alt="Link" class="link">
+          </div>
+        </a>
+        <a href="https://github.com/kenclaron/article-progress-bar.js" class="project ripple">
+          <img src="./img/content/Article-Progress-Bar.js.jpg" alt="scrollbar.js">
+          <h2>Article-Progress-Bar.js</h2>
+          <p>Vanilla JavaScript article top custom progress bar for website.</p>
+          <div class="frontground">
+            <img src="./img/link.svg" alt="Link" class="link">
+          </div>
+        </a>
+        <a href="https://github.com/kenclaron/better-image-viewer.js" class="project ripple">
+          <img src="./img/content/Better-Image-Viewer.js.jpg" alt="scrollbar.js">
+          <h2>Better-Image-Viewer.js</h2>
+          <p>Smooth vanilla JavaScript image viewer for website.</p>
+          <div class="frontground">
+            <img src="./img/link.svg" alt="Link" class="link">
+          </div>
+        </a>
+        <a href="https://github.com/kenclaron/emulated-android-arrow.js" class="project ripple">
+          <img src="./img/content/Emulated-Android-Arrow.js.jpg" alt="scrollbar.js">
+          <h2>Emulated-Android-Arrow.js</h2>
+          <p>Smooth vanilla JavaScript arrow slider like Android launcher's arrow for website.</p>
+          <div class="frontground">
+            <img src="./img/link.svg" alt="Link" class="link">
+          </div>
+        </a>
+        <a href="https://steamcommunity.com/workshop/filedetails/?id=1795905958" class="project ripple">
+          <img src="./img/content/Launch-Preview-Pack.jpg" alt="scrollbar.js">
+          <h2>Launch Preview Pack</h2>
+          <p>Pack of animated wallpapers for Wallpaper Engine</p>
+          <div class="frontground">
+            <img src="./img/link.svg" alt="Link" class="link">
+          </div>
+        </a>
+        <a href="https://steamcommunity.com/id/niemilosc/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfiles&view=imagewall" class="project ripple">
+          <img src="./img/content/Other-Animated-Wallpapers.gif" alt="scrollbar.js">
+          <h2>Animated Wallpapers</h2>
+          <p>All animated wallpapers for Wallpaper Engine</p>
+          <div class="frontground">
+            <img src="./img/link.svg" alt="Link" class="link">
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div id="scripts">
+    <script src="./js/particle-screen.js"></script>
+    <script>
+      new EmulatedAndroidArrow(document.getElementById("arrow"), true, false, 1);
+
+      window.addEventListener('scroll', function() {
+        document.getElementById("titlecard").style.marginTop = `${-window.pageYOffset/2}px`
+      });
+    </script>
+  </div>
+</body>
+</html>
