@@ -3,10 +3,10 @@
 
 ### My skills:
 
+- **JavaScript**: TypeScript, React, Vue, Node.js, jQuery, Handlebars.js
+- **CSS**, Sass, SCSS
 - **HTML5**
-- **CSS**, SCSS
-- **JavaScript**: ES6, npm, jQuery, React.js
-- **PHP**
+- **PHP**, **Laravel**
 - **PostgreSQL** as Database Management System
 - **C#**, **C++** for Windows Development
 - **Kotlin** for Android Development
