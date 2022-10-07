@@ -3,7 +3,7 @@
 
 ### My skills:
 
-- **JavaScript**: TypeScript, React, Vue, Node.js, jQuery, Handlebars.js
+- **JavaScript**: TypeScript, React, MUI, Vue, Node.js, jQuery, Handlebars.js
 - **CSS**, Sass, SCSS
 - **HTML5**
 - **PHP**, **Laravel**
