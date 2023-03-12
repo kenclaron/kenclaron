@@ -25,7 +25,7 @@
 __________
 > Have a nice day!
 
-[web]: https://kenclaron.github.io/kenclaron
+[web]: https://kenclaron.github.io
 [championship-1]: https://cups.online/ru/results/itonecup?period=past&roundId=662&round_id=662
 [championship-2]: https://cups.online/ru/results/vkwinterquest?page=3&pageSize=36&period=past&roundId=659
 [championship-3]: https://cups.online/ru/results/vkeducodeparty?page=4&period=past&roundId=657
