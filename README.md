@@ -34,7 +34,7 @@ __________
 [web]: https://kenclaron.github.io
 [championship-6]: https://it-marathon.21-school.ru/
 [championship-5]: https://beautifulcode.ru/
-[championship-4]: https://cups.online/ru/results/itonecup?period=past&roundId=662&round_id=662
+[championship-4]: https://cups.online/ru/results/itonecup?page=5&period=past&roundId=662
 [championship-3]: https://cups.online/ru/results/vkwinterquest?page=3&pageSize=36&period=past&roundId=659
 [championship-2]: https://cups.online/ru/results/vkeducodeparty?page=4&period=past&roundId=657
 [championship-1]: https://vk.com/vkteam?w=wall-147415323_10535
