@@ -23,7 +23,7 @@
 |----------------------------------------------------|------------:|-----:|
 | [Digital Marathon][championship-6]                 | Participant | 2024 |
 | [Beautiful Code Contest 1.0][championship-5]       | Participant | 2023 |
-| [IT_ONE Cup. Системный анализ][championship-4]     |      40/208 | 2022 |
+| [IT_ONE Cup. System analysis][championship-4]      |      41/208 | 2022 |
 | [VK Winter Quest][championship-3]                  |      78/135 | 2022 |
 | [VK Edu Code Party][championship-2]                |      34/173 | 2021 |
 | [VK Cup 2021 Track Design][championship-1]         |    Finalist | 2021 |
