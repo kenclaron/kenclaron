@@ -1,11 +1,9 @@
-# Hello, I'm [Dmitry Britov][web]
-> I'm a Web Developer.
+# Hello, I'm [Dmitry Britov][web]. I'm a Web Developer.
 
 ### My skills:
 
-- **JavaScript**: TypeScript, React, MUI, Vue, Node.js, jQuery, Handlebars.js, Meteor
-- **CSS**, Sass, SCSS, Less
-- **HTML5**
+- **HTML5/JavaScript**, TypeScript, React, MUI, Vue, Node.js, jQuery, Handlebars.js, Meteor.js
+- **CSS**, SCSS, Sass, Less
 - **PHP**, **Laravel**
 - **PostgreSQL**, **MongoDB** as Database Management Systems
 - **C#**, **C++** for Windows Development
@@ -27,9 +25,6 @@
 | [VK Winter Quest][championship-3]                  |      78/135 | 2022 |
 | [VK Edu Code Party][championship-2]                |      34/173 | 2021 |
 | [VK Cup 2021 Track Design][championship-1]         |    Finalist | 2021 |
-
-__________
-> Have a nice day!
 
 [web]: https://kenclaron.github.io
 [championship-6]: https://it-marathon.21-school.ru/
